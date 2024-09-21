@@ -1,4 +1,4 @@
-name: Tomarket claim
+name: Xkucoin claim
 on:
   workflow_dispatch: # allow manual run
     inputs:
